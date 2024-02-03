@@ -5,7 +5,7 @@ function DefaultLayout(props) {
     <div>
       <div className="header bs1">
         <div className="d-flex justify-content-between">
-          <h1>sheyCars</h1>
+          <h1>WaggyWheels</h1>
         </div>
       </div>
       <div className="content">{props.children}</div>
@@ -14,3 +14,4 @@ function DefaultLayout(props) {
 }
 
 export default DefaultLayout;
+ 

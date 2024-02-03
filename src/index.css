@@ -32,3 +32,108 @@ h1{
 .content{
   min-height: 90vh;
 }
+.carimg{
+  height: 180px;
+  width: 180px;
+  border-radius: 5px;
+}
+h1{
+  margin: 30px;
+  color: orangered;
+  font-weight: bold;
+}
+p{
+  text-align: left;
+  margin: 5px !important;
+  color: orangered;
+padding: 0;
+}
+.btn1{
+  background-color: white !important;
+  box-shadow: none !important;
+  color: orangered !important;
+  border: 1px solid orangered !important;
+
+}
+.content{
+  min-height: 90vh;
+}
+
+.spinner{
+  position:absolute;
+  top: 50%;
+  z-index: 1;
+  left: 50%;
+}
+
+
+
+.car{
+  
+}
+/* Login page  */
+
+
+.login{
+  min-height: 100vh;
+  background-color: black;
+
+}
+
+/* login label  */
+.css-dev-only-do-not-override-1b0bdye .ant-form-item .ant-form-item-label >label{
+  color: white;
+  opacity: 0.6;
+  font-size: medium;
+  letter-spacing: 2px;
+  }
+  .login .btn1{
+    letter-spacing: 2px;
+    box-shadow: none !important;
+    color: orangered !important;
+    border: 1px solid orangered !important;
+    padding: 5px 15px !important
+
+  }
+.btn1:focus{
+  border: none !important;
+  outline: none;
+}
+  .login-form{
+    background-color: #c3b5b51f;
+  
+  }
+  .login-form Input{
+    background-color: #333333 !important;
+    border: none !important;
+    color: white;
+    opacity: 0.5;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Styles for devices with a minimum width of 768 pixels and a maximum width of 991 pixels (Tablets) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .carimg {
+    height: 180px;
+    width: 220px;
+    border-radius: 5px;
+  }
+}

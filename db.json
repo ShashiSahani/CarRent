@@ -1,0 +1,95 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "color": "Silver",
+      "image": "https://img.freepik.com/free-vector/blue-sports-car-isolated-white-vector_53876-67354.jpg",
+      "rental_price": 50
+    },
+    {
+      "id": "2",
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2022,
+      "color": "Blue",
+      "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2Fyc3xlbnwwfHwwfHx8MA%3D%3D",
+      "rental_price": 55
+    },
+    {
+      "id": "3",
+      "make": "Ford",
+      "model": "Fusion",
+      "year": 2022,
+      "color": "Red",
+      "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=1504&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rental_price": 48
+    },
+    {
+      "id": "4",
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2022,
+      "color": "White",
+      "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rental_price": 52
+    },
+    {
+      "id": "5",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2022,
+      "color": "Black",
+      "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?q=80&w=1650&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rental_price": 60
+    },
+    {
+      "id": "6",
+      "make": "Hyundai",
+      "model": "Sonata",
+      "year": 2022,
+      "color": "Gray",
+      "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rental_price": 55
+    },
+    {
+      "id": "7",
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2022,
+      "color": "Green",
+      "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rental_price": 75
+    },
+    {
+      "id": "8",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2022,
+      "color": "Brown",
+      "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rental_price": 80
+    },
+    {
+      "id": "9",
+      "make": "Audi",
+      "model": "A4",
+      "year": 2022,
+      "color": "Yellow",
+      "image": "https://images.unsplash.com/photo-1616422285623-13ff0162193c?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rental_price": 90
+    },
+    {
+      "id": "10",
+      "make": "Lexus",
+      "model": "ES",
+      "year": 2022,
+      "color": "Purple",
+      "image": "https://images.unsplash.com/photo-1567818735868-e71b99932e29?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGNhcnN8ZW58MHx8MHx8fDA%3D",
+      "rental_price": 85
+    }
+   
+  ]
+}
